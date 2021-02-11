@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Spotify](https://rgfoeadhw70cpq7k020c739ek.vercel.app/api/spotify)](https://open.spotify.com/user/rgfoeadhw70cpq7k020c739ek)
+[![Spotify](https://aeleneibogdan.vercel.app/api/spotify)](https://open.spotify.com/user/aeleneibogdan)
