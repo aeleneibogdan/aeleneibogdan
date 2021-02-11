@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Spotify Playing 🎧
 
-[![Spotify](https://aeleneibogdan.vercel.app/api/spotify)](https://open.spotify.com/user/aeleneibogdan)
+[![Spotify](https://aeleneibogdan.vercel.app/api/spotify)](https://open.spotify.com/user/rgfoeadhw70cpq7k020c739ek?si=CjKXLWrOQiSJ3P2MnqQl6Q)
